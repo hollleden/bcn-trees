@@ -2,6 +2,7 @@
 An interactive map of all 208 trees from Barcelona's official catalogue of *[Arbres d'interès local](https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local)* — trees, palms, and shrubs protected by the city for their age, rarity, or historical value. Click any marker to see the species, its story, and how to get there.
 <img width="1384" height="852" alt="image" src="https://github.com/user-attachments/assets/32d458f1-c753-4d85-b87e-8d1daca0caaa" />
 
+https://hollleden.github.io/bcn-trees/ 
 
 ## What it does
 
@@ -31,10 +32,6 @@ Built as a personal project — not an official city product.
 ## Data sources
 
 All tree data comes from the public catalogue *[Arbres d'interès local](https://www.barcelona.cat/ca/que-pots-fer-a-bcn/parcs-i-jardins/arbres-interes-local)* on barcelona.cat — photos, descriptions, coordinates, and registration details. Each card links back to the official page it came from.
-
-## Live version
-
-https://hollleden.github.io/bcn-trees/
 
 ## License
 
